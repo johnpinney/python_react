@@ -13,3 +13,4 @@ A video giving installation instructions for different platforms is available he
 
 If you aren’t able to install Anaconda on your machine, an alternative is to work with JupyterLab online using this link to the Binder resource:
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johnpinney/python_react/master?urlpath=lab)
