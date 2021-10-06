@@ -11,7 +11,7 @@ https://www.anaconda.com/products/individual
 A video giving installation instructions for different platforms is available here: http://swcarpentry.github.io/python-novice-gapminder/setup.html
 (You don’t need to download the data file mentioned on this page.)
 
-If you aren’t able to install Anaconda on your machine, an alternative is to work with JupyterLab online, using this link to the Binder resource:
+If you aren’t able to install Anaconda on your machine, an alternative is to work with JupyterLab online using this link to the Binder resource:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johnpinney/python_react/main?urlpath=lab)
 
@@ -24,7 +24,7 @@ This course gives a basic introduction to the Python programming language, which
 * [Think Python 2e](https://greenteapress.com/wp/think-python-2e/) is an excellent introductory textbook, available for free online.
 * The follow-on [Python Bridge](https://github.com/johnpinney/python_bridge) course will introduce you to the most important components of the *SciPy* libraries (numpy, pandas and matplotlib). 
 * Check out other [Software Carpentry](https://software-carpentry.org/lessons/) lessons, in particular
+	*  [Using Python from the Unix command line](https://swcarpentry.github.io/python-novice-inflammation/12-cmdline/index.html)
 	*  [Errors and Exceptions](https://swcarpentry.github.io/python-novice-inflammation/09-errors/index.html)
-	*  [Debugging](https://swcarpentry.github.io/python-novice-inflammation/11-debugging/index.html)
-	*  [Command-Line Programs](https://swcarpentry.github.io/python-novice-inflammation/12-cmdline/index.html)
+	*  [Debugging tips](https://swcarpentry.github.io/python-novice-inflammation/11-debugging/index.html)
 * The [Graduate School](https://www.imperial.ac.uk/study/pg/graduate-school/students/doctoral/professional-development/research-computing-data-science/courses/) offers several other intermediate- and advanced-level Python courses.
