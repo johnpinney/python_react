@@ -2,7 +2,7 @@
 
 ## Recordings:
 
-* [Thursday 5th October](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f61a6cce-deac-4fa4-a972-b09200d6b7a0)
+* [Thursday 5th October](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f61a6cce-deac-4fa4-a972-b09200d6b7a0&start=0)
 
 
 ---
