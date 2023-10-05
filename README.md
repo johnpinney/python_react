@@ -1,5 +1,11 @@
 # python_react
 
+## Recordings:
+
+* [Thursday 5th October](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f61a6cce-deac-4fa4-a972-b09200d6b7a0)
+
+
+---
 Welcome to the *Introduction to Python* course for React CDT students.
 
 In the first three sessions, we will be working with materials from the Software Carpentry resource for scientific computing:
