@@ -4,8 +4,6 @@
 
 * [Thursday 5th October](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=f61a6cce-deac-4fa4-a972-b09200d6b7a0&start=0)
 * [Friday 6th October](https://imperiallondon-my.sharepoint.com/:v:/g/personal/jpinney_ic_ac_uk/EQzjiApVIERPrh-DN_PQCncBEuWPx-Vcww4Ot8Yds38xuA)
-  
-
 
 ---
 Welcome to the *Introduction to Python* course for React CDT students.
